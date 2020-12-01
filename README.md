@@ -17,9 +17,10 @@ I'm [Stefanus Stanley Yoga Setiawan](https://stanleyyoga.netlify.app/), currentl
 ## 🏆 Awards
 | Achievement | Scope | Name | Year | Description |
 |-------------|-------|------|------|-------------|
-| 2nd Place | National | Anforcom Data Mining | 2020 | Data Mining competition held by Undip |
-| Finalist  | National | FindIT Hackathon     | 2020 | Hackathon competition held by UGM     |
-| Finalist  | National | Jenius Hackathon     | 2019 | Hackathon competition held by Jenius  |
+| 2nd Place | National | Anforcom Data Mining                     | 2020 | Data Mining competition held by Undip |
+| Top 15th  | National | National Data Science Competition (NDSC) | 2020 | Data Science competition help by Shopee | 
+| Finalist  | National | FindIT Hackathon                         | 2020 | Hackathon competition held by UGM     |
+| Finalist  | National | Jenius Hackathon                          | 2019 | Hackathon competition held by Jenius  |
 
 ## ⚡ More Info
 ![My github stats](https://github-readme-stats.vercel.app/api?username=stanleyyoga123&show_icons=true)
