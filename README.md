@@ -12,7 +12,7 @@ I'm [Stefanus Stanley Yoga Setiawan](https://stanleyyoga.netlify.app/), currentl
 | Roles | Type | Location | Duration | From-Until |
 |-------------|-------|------|------|-------------|
 | Graphics and Artificial Intelligence Laboratory Assistant | Assistant | [Institut Teknologi Bandung](https://www.linkedin.com/school/itb/) | N/A | August 2020 - present |
-| Artificial Intelligence Engineer | Internship | [Kredibel](https://www.linkedin.com/company/kredibel.co.id/) | 3 months | June 2020 - August 2020 |
+| Artificial Intelligence Engineer | Internship | [Kredibel](https://www.linkedin.com/company/kredibel.co.id/) | 3 months | June 2020 - Jan 2021 |
 
 ## 🏆 Awards
 | Achievement | Scope | Name | Year | Description |
