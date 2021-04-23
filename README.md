@@ -17,6 +17,7 @@ I'm [Stefanus Stanley Yoga Setiawan](https://stanleyyoga.netlify.app/), currentl
 ## 🏆 Awards
 | Achievement | Scope | Name | Year | Description |
 |-------------|-------|------|------|-------------|
+| 11th Place | Asean | Shopee Code League | 2021 | Data Analytics, Data Science, Programming competition held by Shopee |
 | 2nd Place | National | Anforcom Data Mining                     | 2020 | Data Mining competition held by Undip |
 | Top 15th  | National | National Data Science Competition (NDSC) | 2020 | Data Science competition help by Shopee | 
 | Finalist  | National | FindIT Hackathon                         | 2020 | Hackathon competition held by UGM     |
