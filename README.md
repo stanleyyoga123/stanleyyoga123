@@ -5,12 +5,12 @@ I'm [Stefanus Stanley Yoga Setiawan](https://stanleyyoga.netlify.app/), currentl
 | Project | Short Description | Language and Stack Used |
 |---------|-------------------|-------------------------|
 |[Land Cover Classification](https://github.com/stanleyyoga123/LandCoverClassification)            | Geographical AI       | Python Flask + Scikit Learn   |
-|[Simple Object Oriented Calculator](https://github.com/stanleyyoga123/calculator_oop_gui)         | Desktop App           | Java Processing               |
-|[Personal Website](https://stanleyyoga.netlify.app/)                                              | Simple Website        | Pure HTML + CSS + Javascript  |
+|[Content Based Recommender System](https://github.com/stanleyyoga123/qna-recommender)             | Recommender System    | Python Django + Tensorflow    |
 
 ## 💼 Experience
 | Roles | Type | Location | Duration | From-Until |
 |-------------|-------|------|------|-------------|
+| AI Engineer | Internship | [GDP Labs](https://www.linkedin.com/company/gdp-labs) | 3 months | June 2021 - Aug 2021 |
 | Graphics and Artificial Intelligence Laboratory Assistant | Assistant | [Institut Teknologi Bandung](https://www.linkedin.com/school/itb/) | N/A | August 2020 - present |
 | Artificial Intelligence Engineer | Internship | [Kredibel](https://www.linkedin.com/company/kredibel.co.id/) | 8 months | June 2020 - Jan 2021 |
 
